@@ -1,4 +1,10 @@
+Masa base:
+
 harina
 huevo
 leche
 miel
+
+Cobertura:
+
+cacao amargo 
