@@ -1,4 +1,5 @@
 harina
 huevo
 leche
-miel (nuevo)
+miel
+canela jengibre (nuevo)
