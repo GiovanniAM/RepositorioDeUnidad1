@@ -2,4 +2,3 @@ harina
 huevo
 leche
 miel
-canela jengibre (nuevo)
