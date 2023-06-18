@@ -1,2 +1,6 @@
 Costos:
-23234324
+Masa base:
+$23234324
+
+Cobertura:
+$7899
